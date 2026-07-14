@@ -1,22 +1,39 @@
 
-# 👋 Hi, I'm Pari Vaish
+<h1 align="center">Hi 👋, I'm Pari Vaish</h1>
+<h3 align="center">BCA Student | Java Developer | Web Developer | Problem Solver</h3>
 
-🎓 BCA Undergraduate | Java & Web Developer | Problem Solver
+<p align="center">
+Passionate about building modern web applications and solving real-world problems through technology.
+</p>
 
-I'm a passionate BCA student with a strong interest in software development and problem-solving. I enjoy building practical, user-friendly web applications while continuously improving my programming and development skills.
+---
 
-My technical expertise includes Java, HTML, CSS, JavaScript, SQL, and basic Python. I have hands-on experience developing responsive web projects and enjoy learning new technologies to create efficient and scalable solutions.
+## 👩‍💻 About Me
 
-I believe in continuous learning, writing clean code, and building real-world projects that strengthen my technical foundation. My goal is to begin my career as a Software Developer and contribute to innovative products while growing as a developer.
+- 🎓 BCA Undergraduate from India
+- 💻 Passionate about Java, Web Development, and Software Engineering
+- 🌱 Currently learning Data Structures & Algorithms, Java, and Full-Stack Development
+- 🚀 Building practical projects to strengthen my development skills
+- 🎯 Goal: To start my career as a Software Developer and contribute to innovative products
+- ⚡ Interested in UI/UX, Clean Code, and Open Source
 
-## 🚀 Currently
-- 🌱 Learning Java, Data Structures & Algorithms
-- 💻 Building web development projects
-- 🎯 Preparing for software development opportunities
+---
 
-## 📫 Connect with Me
-- GitHub: https://github.com/pari-26-vaish
-- LinkedIn: https://www.linkedin.com/in/pari-vaish-623053354/
+## 🛠️ Tech Stack
+
+- **Languages:** Java, JavaScript, HTML5, CSS3, SQL, Python (Basics)
+- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
+- **Database:** MySQL
+- **Design:** Figma, Canva
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/pari-vaish-623053354/
+- 💻 GitHub: https://github.com/pari-26-vaish
+
+> *"Code. Learn. Build. Repeat."* 🚀
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tannyaa_v
