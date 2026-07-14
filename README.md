@@ -1,12 +1,22 @@
-# 💫 About Me:
-Hi, I’m a BCA undergraduate with a strong interest in problem-solving and software development, backed by my studies in Data Structures and Algorithms using Java. Alongside this, I have practical exposure to web and application development.
 
-I build projects using technologies such as ReactJS, NextJS, MongoDB, and SQL, and I’ve also experimented with Flutter to create cross-platform mobile applications.
+# 👋 Hi, I'm Pari Vaish
 
-I have experience programming in C, Java, JavaScript, and Python, with introductory knowledge of C#, and I am currently learning Rust, Kotlin, and Swift to broaden my technical skill set.
+🎓 BCA Undergraduate | Java & Web Developer | Problem Solver
 
-My career goal is to grow as a Blockchain Developer, as I believe decentralized technologies will be fundamental to the future of secure digital systems. I enjoy continuous learning, working on real-world problems, and keeping pace with evolving technologies.
+I'm a passionate BCA student with a strong interest in software development and problem-solving. I enjoy building practical, user-friendly web applications while continuously improving my programming and development skills.
 
+My technical expertise includes Java, HTML, CSS, JavaScript, SQL, and basic Python. I have hands-on experience developing responsive web projects and enjoy learning new technologies to create efficient and scalable solutions.
+
+I believe in continuous learning, writing clean code, and building real-world projects that strengthen my technical foundation. My goal is to begin my career as a Software Developer and contribute to innovative products while growing as a developer.
+
+## 🚀 Currently
+- 🌱 Learning Java, Data Structures & Algorithms
+- 💻 Building web development projects
+- 🎯 Preparing for software development opportunities
+
+## 📫 Connect with Me
+- GitHub: https://github.com/pari-26-vaish
+- LinkedIn: https://www.linkedin.com/in/pari-vaish-623053354/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tannyaa_v
