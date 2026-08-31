@@ -1,52 +1,81 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Pari Vaish</h1>
-<h3 align="center">BCA Student | Java Developer | Web Developer | Problem Solver</h3>
+# Pari Vaish
 
-<p align="center">
-Passionate about building modern web applications and solving real-world problems through technology.
+### Full-stack builder — MERN-first, foundations in Java
+
+</div>
+
+<br/>
+
+I build things end to end: schema to server to screen. Currently a BCA student in India, spending most of my time in the MERN stack — MongoDB for data, Express and Node for the logic underneath, React for what people actually touch. Java gave me the fundamentals; the web stack is where I ship.
+
+I'm not here to collect certificates. I'm here to ship projects that work, break them on purpose to understand why, and get better at the parts that are actually hard — state, data flow, auth, deployment.
+
+<br/>
+
+## What I'm working with
+
+**Interface** — React · JavaScript (ES6+) · HTML5 · CSS3
+**Server & Data** — Node.js · Express.js · MongoDB
+**Core** — Java · SQL
+**Workflow** — Git · GitHub
+
+<br/>
+
+## Right now
+
+- 🔨 Shipping full-stack MERN projects — real auth, real databases, real deployment, not tutorials left half-finished
+- 📚 Going deeper into DSA and system design fundamentals
+- 🎯 Targeting a Software Developer role where I can own features end to end
+- 🧩 Open to collaborating on projects that need a full-stack hand
+
+<br/>
+
+## Find me elsewhere
+
+<p>
+<a href="https://www.linkedin.com/in/pari-vaish-623053354/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/pari-26-vaish"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:pariv7006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+<br/>
 
-## 👩‍💻 About Me
+## Stack, visually
 
-- 🎓 BCA Undergraduate from India
-- 💻 Passionate about Java, Web Development, and Software Engineering
-- 🌱 Currently learning Data Structures & Algorithms, Java, and Full-Stack Development
-- 🚀 Building practical projects to strengthen my development skills
-- 🎯 Goal: To start my career as a Software Developer and contribute to innovative products
-- ⚡ Interested in UI/UX, Clean Code, and Open Source
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Activity
 
-- **Languages:** Java, JavaScript, HTML5, CSS3, SQL, Python (Basics)
-- **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
-- **Database:** MySQL
-- **Design:** Figma, Canva
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=pari-26-vaish&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
 
-## 📫 Connect With Me
+<img src="https://nirzak-streak-stats.vercel.app/?user=pari-26-vaish&theme=blueberry&hide_border=false" alt="GitHub streak" />
 
-- 💼 LinkedIn: https://www.linkedin.com/in/pari-vaish-623053354/
-- 💻 GitHub: https://github.com/pari-26-vaish
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pari-26-vaish&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
 
-> *"Code. Learn. Build. Repeat."* 🚀
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tannyaa_v
-) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pariv7006@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hmntsriv&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=hmntsriv&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmntsriv&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=hmntsriv&icon=0&color=0)](https://visitcount.itsvg.in)
+*Building the boring parts so the interesting parts work.*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
