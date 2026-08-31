@@ -85,16 +85,19 @@ I'd rather debug than binge a show
 
 <br/>
 
-📈 GitHub Activity
-�
-￼ ￼ 
+## 📈 GitHub Activity
 
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=pari-26-vaish&theme=blueberry&hide_border=true&count_private=false" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pari-26-vaish&theme=blueberry&hide_border=true&layout=compact" width="49%" />
+</div>
 
-�
-￼ 
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=pari-26-vaish&theme=blueberry&hide_border=true" width="70%" />
+</div>
 
+<br/>
 
-�
 ## 🔗 Let's Connect
 
 <div align="center">
