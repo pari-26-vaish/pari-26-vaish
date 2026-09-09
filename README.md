@@ -82,9 +82,7 @@
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,postman,vscode,figma&perline=8" alt="Tech Stack Icons" />
-  </a>
+  <img src="./tech-arsenal.svg" alt="Tech Arsenal" width="100%" />
 </div>
 
 ---
