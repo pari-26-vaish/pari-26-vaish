@@ -1,0 +1,33 @@
+<svg width="760" height="150" viewBox="0 0 760 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Animated flowing border gradient -->
+    <linearGradient id="neonGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#06B6D4;#F43F5E;#7C3AED" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#06B6D4">
+        <animate attributeName="stop-color" values="#06B6D4;#F43F5E;#7C3AED;#06B6D4" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#7C3AED">
+        <animate attributeName="stop-color" values="#7C3AED;#06B6D4;#F43F5E;#7C3AED" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Side neon aura glow filter -->
+    <filter id="sideGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Glowing Border Layer -->
+  <rect x="25" y="10" width="710" height="130" rx="18" fill="none" stroke="url(#neonGlow)" stroke-width="4" filter="url(#sideGlow)">
+    <animate attributeName="stroke-opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite" />
+  </rect>
+
+  <!-- Background Plate -->
+  <rect x="25" y="10" width="710" height="130" rx="18" fill="#0D1117" stroke="url(#neonGlow)" stroke-width="2" />
+
+  <!-- Skill Icons -->
+  <image x="45" y="25" width="670" height="100" href="https://skillicons.dev/icons?i=java,c,js,react,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,postman,vscode,figma&amp;perline=8" />
+</svg>
